@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* height: 100vh; */
+  
+}
+
+
+#container{
+  
+  width: 500px;
+  /* height: 500px; */
+  border: 2px solid black;
+  /* display: none; */
+ 
+}
+
+
+.square{
+  background-color: rgb(126, 126, 126);
+
+}
+
+
+button{
+  padding: 10px;
+  margin: 30px;
+  margin-bottom: 20px;
+}
